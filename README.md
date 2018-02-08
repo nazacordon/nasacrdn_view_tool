@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-> Provides generated HTML data for Rails applications.
+```ruby
+NasacrdnViewTool::Renderer.copyright 'Nash Acordon', 'All rights reserved'
+```
 
 ## Development
 
